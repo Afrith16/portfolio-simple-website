@@ -1,0 +1,83 @@
+.div__head {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+   
+}
+.button__contact {
+    background-color: orangered;
+    margin-bottom: 10px;
+
+}
+.a__contact{
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+   
+}
+.h1__title {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p__descr{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding-left: 20px;
+}
+.h2__title {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.table__form{
+    margin: 20px;
+}
+.td__form{
+    padding-left: 10px;
+}
+
+.button__sub{
+    padding: 10px;
+    background-color: orangered;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+.div__media{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p__media{
+    display: inline-block;
+}
+.insta{
+    display: inline-block;
+    text-decoration: none;
+    color: blueviolet;
+}
+.input__name,.input__message,.input__submit{
+    margin-top: 15px;
+}
+.input__name{
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.input__message{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+input :focus{
+    
+}
+
